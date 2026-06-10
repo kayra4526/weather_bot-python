@@ -19,8 +19,3 @@ Projede iki farklı açık kaynaklı API birbirine zincirlenerek (**API Chaining
   * `json` (Veri ayrıştırma / JSON parsing)
   * `ssl` (Yerel sertifika doğrulama yönetimi)
 
-## 📦 Kurulum ve Çalıştırma
-
-1. Bu depoyu bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADIN/coografi-hava-durumu-botu.git](https://github.com/KULLANICI_ADIN/coografi-hava-durumu-botu.git)
